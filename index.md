@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Лицензия на право собственности NFT в The Open Network
 
-You can use the [editor on GitHub](https://github.com/mir-one/ton-nft-license/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Данный документ является обзором проблем определения прав на невзаимозаменяемые токены (__NFT__) в сети The Open Network, для продавца, художника, покупателя. Представлено описание тренда криптоискусства, представляющего собой цифровое искусство, которое рассматривается как физическое искусство из-за возможности подтвердить право собственности на произведение. Подлинность цифрового искусства может быть подтверждена путем использования __NFT__ или невзаимозаменяемого токена. Представлены возможности и ограничения развития __NFT__-рынка в сети The Open Network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Оговорка (disclaimer)
 
-### Markdown
+***Лицензии на право собственности NFT в The Open Network*** не является юридическим инструментом. Это описание лицензии для NFT, написанное доступным языком изложение некоторых основных её положений. Представьте её как интерфейс к тексту лицензии для NFT. Сам по себе этот документ не обладает правовой силой, его содержимое не входит в состав лицензии для NFT в The Open Network. LLC MIR не является юридической компанией и не предоставляет юридических услуг. Распространение, отображение, либо цитирование этой лиценции не создаёт предмета отношений по типу юрист-клиент. LLC MIR не заверяют правовой статус любого произведения, к которому применяется лицензия на право собственности для NFT. LLC MIR не дают никаких гарантий по поводу любого произведения, либо его правового статуса под любой юрисдикцией, и отрицают любую ответственность за какое-либо использование любого произведения.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Ключевые слова**: NFT, The Open Network, blockchain, искусство, технология, право собственности, копия, подлинник
 
-```markdown
-Syntax highlighted code block
+## Постановка проблемы
 
-# Header 1
-## Header 2
-### Header 3
+## Основные результаты
 
-- Bulleted
-- List
+## Выводы
 
-1. Numbered
-2. List
+## Библиографический список
 
-**Bold** and _Italic_ and `Code` text
+## Обсуждение
+<https://discord.gg/ykyy4ZKEG6>
 
-[Link](url) and ![Image](src)
-```
+## Ссылки
+https://ton.org
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Пояснения
+<a name="1">1</a>: **Артефакт** (неологизм, от лат. ars — искусство + лат. factus — сделанный, т.е. «сделанный по законам искусства») — продукт творческой деятельности человека.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mir-one/ton-nft-license/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a name="2">2</a>: **Невзаимозаменяемый токен** представляет собой сертификат уникальности цифрового объекта - цифровой криптографический сертификат, который подтверждает право на владение цифровым активом (цифровым артефактом, файлом). Использование __NFT__ не препятствует возможности копирования цифрового артефакта, он только закрепляет право владения оригинальным экземпляром цифрового артефакта.
