@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 21 18" xmlns="http://www.w3.org/2000/svg">
+<mask id="a" x="0" y="0" width="21" height="18" style="mask-type:alpha" maskUnits="userSpaceOnUse">
+<path d="m6.7794 0.02437c0.0358-0.01607 0.0746-0.02437 0.1138-0.02437h6.2553c0.0393 0 0.0781 0.0083002 0.1139 0.02437l4.2134 1.8897c0.0491 0.02204 0.0908 0.05785 0.12 0.10311l2.4016 3.7245c0.0657 0.102 0.0578 0.2349-0.0196 0.3283l-9.7426 11.758c-0.1113 0.1344-0.31732 0.1344-0.42862 0l-9.7426-11.758c-0.07744-0.0934-0.08536-0.2263-0.01959-0.3283l2.4016-3.7245c0.02918-0.04526 0.07086-0.08107 0.11999-0.10311l4.2134-1.8897z" fill="#C4C4C4"/>
+</mask>
+<metadata>
+  <rdf:RDF
+    xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc = "http://purl.org/dc/elements/1.1/"
+    xmlns:cc = "http://creativecommons.org/ns#">
+    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.en"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <rdf:Description about="https://nft.mir.one/fingerprints"
+      dc:title="title"
+      dc:description="description"
+      dc:publisher="Fingerprints DAO"
+      dc:date="2022-02-22"
+      dc:format="image/svg+xml"
+      dc:language="en" >
+    <dc:creator>
+      <rdf:Bag>
+      <rdf:li>Roman Inozemtsev</rdf:li>
+      <rdf:li>https://ipfs.io/ipfs/bafkreihojxkzxvgqptb4v5xowqg7jbss3dmrttvhhlbxvwwdwbzyftbe6q</rdf:li>
+      </rdf:Bag>
+    </dc:creator>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+
+<g mask="url(#a)">
+<path d="m20.108 4.3826h-20.174v13.704h20.174v-13.704z" fill="#47A9F1"/>
+<path d="m20.108 0h-20.174v5.2174h20.174v-5.2174z" fill="#7EC7FF"/>
+<path d="m10.021 3.7566 3.8261 5.0783h-7.6522l3.8261-5.0783z" fill="#75C1FF"/>
+<path d="m10.021 20.8 3.8261-11.965h-7.6522l3.8261 11.965z" fill="#8DCCFC"/>
+<path d="m10.021 3.7565-6.7826-1.0087 2.9565 6.0869 3.8261-5.0782z" fill="#BFE2F7"/>
+<path d="m-0.066406 5.913 3.3043-3.1652 2.9565 6.0869-6.2609-2.9217z" fill="#87CBFF"/>
+<path d="m-0.066406 5.9129 3.3043-3.1652-0.73044-0.79999-2.5739 3.9652z" fill="#47A9F1"/>
+<path d="m10.02 3.7565 6.7826-1.0087-2.9565 6.0869-3.8261-5.0782z" fill="#4BAEF7"/>
+<path d="m20.107 5.913-3.3043-3.1652-2.9565 6.0869 6.2608-2.9217z" fill="#6EBEFF"/>
+<path d="m20.107 5.9129-3.3043-3.1652 0.7304-0.79999 2.5739 3.9652z" fill="#389BE3"/>
+</g>
+</svg>
