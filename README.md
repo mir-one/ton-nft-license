@@ -63,8 +63,8 @@ https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
 <https://ton.org>
 
 # Инструкции
-* (На русском языке)[https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21]
-* (На английском языке (EN))[https://telegra.ph/How-to-use-TON-Fongerprints-for-Copyright-license-05-21]
+* [На русском языке](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
+* [На английском языке (EN)](https://telegra.ph/How-to-use-TON-Fongerprints-for-Copyright-license-05-21)
 
 ## Пояснения
 <a name="1">1</a>: **Артефакт** (неологизм, от лат. ars — искусство + лат. factus — сделанный, т.е. «сделанный по законам искусства») — продукт творческой деятельности человека.
