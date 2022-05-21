@@ -36,7 +36,7 @@ https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
 
 # Метаданные
 Откройте репозиторий Github https://github.com/mir-one/ton-nft-license
-Создайте fork репозитерия
+ и следуйте [инструкции](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21) 
 
 
 # Cтандарт
