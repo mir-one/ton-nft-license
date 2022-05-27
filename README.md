@@ -61,6 +61,7 @@ https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
 
 ## Ссылки
 <https://ton.org>
+[Статья: Как использовать TON Fingerprints для авторской лицензии?](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
 
 # Инструкции
 * [На русском языке](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
