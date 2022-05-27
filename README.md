@@ -60,8 +60,8 @@ https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
 * ISO/IEC 24713-1:2008, Information technology - Biometric profiles for interoperability and data interchange - Part 1: Overview of biometric systems and biometric profiles
 
 ## Ссылки
-<https://ton.org>
-[Статья: Как использовать TON Fingerprints для авторской лицензии?](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
+* <https://ton.org>
+* [Статья: Как использовать TON Fingerprints для авторской лицензии?](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
 
 # Инструкции
 * [На русском языке](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
