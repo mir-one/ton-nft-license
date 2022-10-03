@@ -1,8 +1,8 @@
-NFT Terms and License
+# NFT Terms and License
 
 This document defines the terms and conditions associated with the packaged non-fungible token ("the NFT" or "this NFT") and specifies the rights and obligations between the creating party (the "Creator") and the present owner of the NFT (the "Owner"). By assuming ownership of this token, you agree to a goodwill performance of the Owner's obligations under the terms of this document in exchange for the Creator's performance of their responsibilities and the upholding of their pledges and covenants under these same terms.
 
-I. NON FUNGIBLE TOKEN DETAILS
+## I. NON FUNGIBLE TOKEN DETAILS
 
 Title: NFT License and Terms of Use
 
@@ -10,11 +10,11 @@ Creator: `Name`
 
 Royalty Rate: `n%`
 
-II. CREATOR PLEDGE
+## II. CREATOR PLEDGE
 
 I, `Name`, certify that I am the original Creator of both the NFT packaged with this document and the associated original piece of media which the token represents (the "work"). I further certify that at the dated time of this NFT's creation, I possess all necessary rights to the work to issue the associated NFT and to create the licenses and terms explained in this document. I pledge that I shall create no further NFT or materially identical cryptographic instrument representing this same work without the written consent of the present owner, and agree that the present owner of the NFT may publicly state their ownership of the NFT and my association with its creation, as well as my association with and creation of the associated work. I enter into these terms freely and willingly and pledge to uphold them to the reasonable extent of my ability.
 
-III. CREATOR COVENANTS
+## III. CREATOR COVENANTS
 
 As the Creator of this NFT and the associated work, I make the following warrants and grants and assume the associated obligations toward whomever the current owner of the packaged NFT might be, provided that they uphold the Owner Obligations and Royalties to the reasonable extent of their ability:
 
@@ -26,11 +26,11 @@ I retain all rights and usage of the original work represented by this NFT.
 
 In addition to the rights already afforded to third parties under any form of public licensing which the work has been published under, I hereby grant a limited, worldwide, irrevocable, and non-transferable license to the present owner of this NFT for the duration of their ownership of the NFT to both privately use or print and publicly display the associated work in any single digital location which is capable of cryptographic verification of the NFT's authenticity and which continues to regularly validate such verification for the duration of the display. One (1) printed copy of the work is permitted for public display under this license. No reproduction of the original work is otherwise permitted under this license, nor does this license extend to any duplication or derivative of the NFT. No derivative or modification of the work is permitted under this license. No sale or transfer of a physical or digital reproduction of the work is permitted under this license.
 
-IV. OWNER OBLIGATIONS AND ROYALTIES
+## IV. OWNER OBLIGATIONS AND ROYALTIES
 
 As the present owner of this NFT, you are entitled to publicly claim ownership of the NFT, display the associated work under the terms of the limited license, and to sell, transfer, or otherwise dispose of the NFT as you will. You have only the rights to, usage of, and ownership of the original work which are specifically granted to you by the limited license. In exchange for the Creator's upholding of the Creator Pledge and Covenants, you agree to pay a royalty rate to the Creator of a fixed percentage equivalent to the Royalty Rate listed in Section I of this document of the present cash value of any funds or assets received in exchange for the subsequent sale or transfer of this NFT.
 
-V. DISCLAIMERS
+## V. DISCLAIMERS
 
 By assuming ownership of this NFT, you confirm that you have read and agree with the following disclaimers:
 
