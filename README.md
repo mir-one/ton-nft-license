@@ -127,10 +127,12 @@ Semi-Fungible tokens is combination of NFT and FT.
 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed)
 
-
 ## Explanations
 <a name="1">1</a>: **Artifact** (neologism, from Latin. ars — art + lat. factus — made, i.e. "made according to the laws of art") is a product of human creative activity.
 
 <a name="2">2</a>: **A non-fungible token** is a certificate of uniqueness of a digital object - a digital cryptographic certificate that confirms the right to own a digital asset (digital artifact, file). The use of __NFT__ does not prevent the possibility of copying a digital artifact, it only secures the right of ownership of the original copy of the digital artifact.
 
 [3]: Economics: problems, solutions and prospects DOI 10.26425/1816-4277-2021-11-103-109
+
+# Donation
+[fingerprints.ton](https://tonscan.org/address/EQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv0w3m)
