@@ -19,11 +19,10 @@ Accordingly, the NFT token has two components: unique objects that are "sewn" in
 
 Thus, there is a convergence of technologies: first, a program is used to create an object of copyright, then a program for its tokenization, and then various options for using tokens are possible. In this regard, the legislation on digital financial assets cannot be extended to NFT tokens, since they do not perform the corresponding functions. Rather, such tokens can be used as a tool for the protection and commercial turnover of intellectual property objects. For example, a singer records a new song, "sews" it into a token and sells such a token through a special platform through the conclusion of a smart contract. In this regard, the main question today is whether it is possible to say that exclusive rights arise from NFT tokens, and whether the norms of current legislation apply to them, or whether new legal institutions need to be created to consolidate the legal status of rights that arise from the ownership of NFT tokens?
 
-# License
-https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
+# Text
 
-# License
-https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_ru.md
+* [EN License](https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md)
+* [RU License](https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_ru.md)
 
 ## Problem statement
 One of the types of non-fungible token are NFT [2]. The occurrence of this object and transactions with it causes a lot of legal and accounting problems. In particular, along with the presence of an active market for such tokens, its legal status is not clear, business practices have not been formed in international practice, the process of their accounting and taxation has not been standardized. Based on the essential characteristics of the NFT, there is also a difficulty in classifying it as an accounting object and related accounting methodology. In order to outline ways to solve the problems that have arisen, it is necessary to consider the essence of NFT, their regulatory regulation and belonging to the objects of accounting fixed in the current international accounting standards.
@@ -95,6 +94,12 @@ Contains an example of a simple ICO smart contract.
 ## Semi-Fungible
 
 Semi-Fungible tokens is combination of NFT and FT.
+
+# NFT Collection with TON NFT License / CC0
+* [TON Fingerprints](https://getgems.io/collection/EQATbIOeT9ziq7Jf76dJlnWIAiZggY2TeDteAh46D4QICBZj)
+* [TON CON NFT](https://getgems.io/collection/EQCOEa8iUcBeV0v-_4Hg0-_3t3c9ypRScZ_lhqSdIgqcp2wh)
+* [Black Lizards Video NFT Collection](https://getgems.io/collection/EQC-LrIDjeLfH8phxxc9tTPLOrHHv-C5KTteRVVa2_je523N)
+* [Овалы на полях](https://getgems.io/collection/EQBpNuqToxCxqH8_Lo3TDs0nvH0uIEz6VWpQDJIvm4ASSWfS)
 
 ## Bibliographic list
 * GOST R ISO / IEC 24713-2-2011. National standard of the Russian Federation. Information technology. Biometrics. Biometric profiles for interaction and data exchange. 
