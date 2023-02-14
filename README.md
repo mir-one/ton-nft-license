@@ -122,6 +122,12 @@ Semi-Fungible tokens is combination of NFT and FT.
 * [На русском языке](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
 * [На английском языке (EN)](https://telegra.ph/How-to-use-TON-Fongerprints-for-Copyright-license-05-21)
 
+# License
+[NFT License](https://github.com/mir-one/ton-nft-license)
+
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed)
+
+
 ## Explanations
 <a name="1">1</a>: **Artifact** (neologism, from Latin. ars — art + lat. factus — made, i.e. "made according to the laws of art") is a product of human creative activity.
 
