@@ -1,46 +1,70 @@
-# Лицензия на право собственности NFT в The Open Network
+# NFT Ownership License in The Open Network
 
-Данный документ является обзором проблем определения прав на невзаимозаменяемые токены (__NFT__) в сети The Open Network, для продавца, художника, покупателя. Представлено описание тренда криптоискусства, представляющего собой цифровое искусство, которое рассматривается как физическое искусство из-за возможности подтвердить право собственности на произведение. Подлинность цифрового искусства может быть подтверждена путем использования __NFT__ или невзаимозаменяемого токена. Представлены возможности и ограничения развития __NFT__-рынка в сети The Open Network.
+This document is an overview of the problems of determining the rights to  non-fungible token (__NFT__) in The Open Network, for the seller, the artist, the buyer. The article describes the trend of crypto art, which is digital art, which is considered as physical art because of the possibility to confirm the ownership of the work. The authenticity of digital art can be confirmed by using __NFT__ or a  non-fungible token. The possibilities and limitations of the development of the __NFT__-market in The Open Network are presented.
 
-## Оговорка (disclaimer)
+## Disclaimer (disclaimer)
 
-***Лицензии на право собственности NFT в The Open Network*** не является юридическим инструментом. Это описание лицензии для NFT, написанное доступным языком изложение некоторых основных её положений. Представьте её как интерфейс к тексту лицензии для NFT. Сам по себе этот документ не обладает правовой силой, его содержимое не входит в состав лицензии для NFT в The Open Network. LLC MIR не является юридической компанией и не предоставляет юридических услуг. Распространение, отображение, либо цитирование этой лиценции не создаёт предмета отношений по типу юрист-клиент. LLC MIR не заверяют правовой статус любого произведения, к которому применяется лицензия на право собственности для NFT. LLC MIR не дают никаких гарантий по поводу любого произведения, либо его правового статуса под любой юрисдикцией, и отрицают любую ответственность за какое-либо использование любого произведения.
+***NFT ownership licenses in The Open Network*** is not a legal instrument. This is a description of the license for NFT, written in an accessible language, a statement of some of its main provisions. Imagine it as an interface to the license text for NFT. By itself, this document has no legal force, its contents are not included in the license for NFT in The Open Network. LLC MIR is not a law firm and does not provide legal services. The distribution, display, or citation of this license does not create the subject of a lawyer-client relationship. MIR LLC does not certify the legal status of any work to which a proprietary license for NFT applies. MIR LLC makes no guarantees regarding any work, or its legal status under any jurisdiction, and denies any responsibility for any use of any work.
 
-**Ключевые слова**: NFT, The Open Network, blockchain, искусство, технология, право собственности, копия, подлинник
+**Keywords**: NFT, The Open Network, blockchain, art, technology, ownership, copy, original
 
-## Применение невзаимозаменяемых токенов (NFT).  
+## The use of non-fungible tokens (NFT).
 
-NFT  -  цифровые  идентификаторы  закрепляют  подтвержденное  право собственности  на  виртуальные  элементы  в  блокчейне,  защищая  от  репликации, делая идентифицируемыми и уникальными, повышая их ценность и открывая  возможности  для  бизнеса.  Невзаимозаменяемые  токены  можно использовать  для  продажи  цифровых  коллекционных  предметов.  Кроме того,  NFT  обладают  потенциалом  для  преобразования  отношений  между брендами  и  клиентами,  открывая  эксклюзивные  возможности.  Они  также могут использоваться в качестве защищенных цифровых паспортов, гарантирующих  подлинность  товаров,  что  делает  их  полезными,  в  частности, для  розничных  продавцов  предметов  роскоши  и  потребителей.  Например, швейцарский производитель часов Vacheron Constantin запустил Hour Club, цифровую  платформу  только  для  владельцев,  предлагающую  отслеживание  и  аутентификацию  своих  часов  с  поддержкой  NFT,  индивидуальный контент и приглашения на мероприятия. Несмотря на то, что технология в основном сосредоточена на потребительских товарах и средствах массовой информации, ее распространение ускоряется.
+NFT - digital identifiers secure the confirmed ownership of virtual elements in the blockchain, protecting them from replication, making them identifiable and unique, increasing their value and opening up business opportunities. Non-fungible token can be used to sell digital collectibles. In addition, NFTs have the potential to transform the relationship between brands and customers, opening up exclusive opportunities. They can also be used as secure digital passports that guarantee the authenticity of goods, which makes them useful, in particular, for luxury goods retailers and consumers. For example, Swiss watchmaker Vacheron Constantin has launched Hour Club, an owner-only digital platform offering tracking and authentication of their watches with NFT support, customized content and event invitations. Despite the fact that the technology is mainly focused on consumer goods and mass media, its spread is accelerating.
 
-## Использование NFT цифровых инструментов в инвестиционной деятельности
-Сегодня  под  NFT-токеном  принято  понимать  исключительно  диджитал-арт  или  крипт-арт, т.е.  некий  объект  авторского  права  ( музыку,  текст,  картинку).  Это  связано  с  тем,  что  токены  позволяют создавать любой медиафайл. Однако токенизировать можно объекты не только авторского права, но любые другие объекты. Так, в соответствии с законодательством Лихтенштейна, NFT-токен  –  это  программа-контейнер,  который  оборачивается  на  платформе,  передается  с  помощью смарт-контрактов  и т.д.  В  этот  « контейнер»  можно  « зашить»  любой  объект  ( объект  движимого или недвижимого имущества, тот же ИИ, либо объект, созданный ИИ). Правовой режим того, что «зашито» в «контейнер», регулируется обычным правом.
+## Using NFT digital tools in investment activities
+Today, an NFT token is usually understood exclusively as digital art or crypt art, i.e. a certain object of copyright (music, text, picture). This is due to the fact that tokens allow you to create any media file. However, it is possible to tokenize not only copyright objects, but any other objects. So, in accordance with Liechtenstein legislation, an NFT token is a container program that is wrapped on the platform, transmitted using smart contracts, etc. Any object can be "sewn" into this "container" (an object of movable or immovable property, the same AI, or an object created by AI). The legal regime of what is "sewn" into the "container" is regulated by customary law.
 
-Соответственно,  NFT-токен  имеет  две  составляющие:  уникальные  объекты,  которые  в  них «зашиты»,  и  возможность  эти  объекты  использовать.  Таким  образом,  происходит  раздвоение  целей приобретателей данного вида токенов. Некоторые их коллекционируют или покупают для того,  чтобы  спустя  какое-то  время  продать  дороже.  Другие  приобретают  их  с  целью  использовать. Например, на биржах NFT-токенов обращаются токены, в которые «зашиты» доменные имена или объекты,  используемые  в  виртуальных  мирах.  Соответственно,  приобретатель  таких  токенов  использует  их  для  решения  практических  задач  ( нанесения  маркировки  на  определенные  объекты, участия в спортивной игре или в виртуальном мире, для размещения сайтов и т.д.). 
+Accordingly, the NFT token has two components: unique objects that are "sewn" in them, and the ability to use these objects. Thus, there is a bifurcation of the goals of the purchasers of this type of tokens. Some people collect them or buy them in order to sell them more expensive after some time. Others acquire them in order to use them. For example, on the exchanges of NFT tokens, tokens are used in which domain names or objects used in virtual worlds are "sewn". Accordingly, the acquirer of such tokens uses them to solve practical problems (marking certain objects, participating in a sports game or in the virtual world, hosting websites, etc.).
 
-Таким  образом,  происходит  конвергенция  технологий:  сначала используется программа для создания объекта авторского права, затем – программа для его токенизации, а далее – возможны различные варианты использования токенов. В связи с этим,  на  NFT-токены  нельзя  распространить  законодательство  о  цифровых  финансовых  активах,  так  как  они  не  выполняют  соответствующие  функции.  Скорее,  такие  токены  можно использовать  как  инструмент  для  защиты  и  коммерческого  оборота  объектов  интеллектуальной собственности. Например, певец записывает новую песню, «зашивает» ее в токен и продает такой токен  через  специальную  платформу  посредством  заключения  смарт-контракта.  В  связи  с  этим главный вопрос сегодня – можно ли говорить о том, что из NFT-токенов  вытекают  исключительные  права,  и  распространяются  ли  на  них  нормы  действующего законодательства или нужно создавать новые правовые институты для закрепления юридического статуса прав, которые вытекают из владения NFT-токенами?
+Thus, there is a convergence of technologies: first, a program is used to create an object of copyright, then a program for its tokenization, and then various options for using tokens are possible. In this regard, the legislation on digital financial assets cannot be extended to NFT tokens, since they do not perform the corresponding functions. Rather, such tokens can be used as a tool for the protection and commercial turnover of intellectual property objects. For example, a singer records a new song, "sews" it into a token and sells such a token through a special platform through the conclusion of a smart contract. In this regard, the main question today is whether it is possible to say that exclusive rights arise from NFT tokens, and whether the norms of current legislation apply to them, or whether new legal institutions need to be created to consolidate the legal status of rights that arise from the ownership of NFT tokens?
 
-# Лицензия
-https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_ru.md
-
-# License 
+# License
 https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_en.md
 
-## Постановка проблемы
-Одним из видов невзаимозаменяемых токенов являются NFT (англ. non-fungible tokens) [2]. Возникновение этого объекта и сделок с ним вызывает множество юридических и учетных проблем. В частности, наряду с наличием активного рынка таких токенов, не ясен его юридический статус, международной практике не сформированы обычаи делового оборота, не стандартизирован процесс их бухгалтерского учета и налогообложения. Исходя из сущностных характеристик NFT, также возникает сложность в его классификации как объекта бухгалтерского учета и связанной с этим методики учета. Чтобы наметить пути решения возникших проблем, необходимо рассмотреть сущность NFT, их нормативноправовое регулирование и принадлежность к объектам бухгалтерского учета, закрепленным в текущих международных стандартах бухгалтерского учета.
+# License
+https://github.com/mir-one/ton-nft-license/blob/main/LICENSE_ru.md
 
-## Основные результаты
-Считается, что токен уникален; его практически невозможно подделать, разделить или заменить на другой аналогичный продукт. Данный подход предполагает закрепление неких прав на цифровой объект, хотя в данный момент не совсем понятно, как регламентированы эти права. Этот новый и довольно активный тренд в киберпространстве уже меняет индустрию искусства и коллекционирования, и его применение в будущем может быть основой для появления нового класса активов. [3]
-## Выводы
-Изучая стандарты, касающиеся NFT рынка этих объектов в целом и их юридических и учетных нормах. Сейчас происходит активное внедрение цифровизации во все сферы экономики, и методология учета  должна измениться. Но есть значительное отставание от сложившейся практической деятельности, наличия рынка новых цифровых продуктов. Находящиеся на компьютерах отношения, появление новых инструментов и технологий вызывают множество вопросов, которые не отражены в регламентации бухгалтерского учета. Рынок невзаимозаменяемых токен NFT в киберпространстве активно развивается.Когда сделки превышают значительные объемы, нормативное правовое регулирование их регулирует не в соответствии с текущей ситуацией информационного общества. По результатам идентификации NFT, как объекта бухгалтерского учета выявлена частично или полная невозможность отнесения его к конкретному объекту учетной политики.
-Чтобы обеспечить учет таких специфических цифровых продуктов, как NFT и его регламентацию на уровне стандартов или в смарт-контрактах DAO, необходимо разработать методологию учета этих информационных продуктов.
+## Problem statement
+One of the types of non-fungible token are NFT [2]. The occurrence of this object and transactions with it causes a lot of legal and accounting problems. In particular, along with the presence of an active market for such tokens, its legal status is not clear, business practices have not been formed in international practice, the process of their accounting and taxation has not been standardized. Based on the essential characteristics of the NFT, there is also a difficulty in classifying it as an accounting object and related accounting methodology. In order to outline ways to solve the problems that have arisen, it is necessary to consider the essence of NFT, their regulatory regulation and belonging to the objects of accounting fixed in the current international accounting standards.
 
-# Метаданные
-Откройте репозиторий Github https://github.com/mir-one/ton-nft-license
- и следуйте [инструкции](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21) 
+## Main results
+It is believed that the token is unique; it is almost impossible to fake, divide or replace it with another similar product. This approach involves securing certain rights to a digital object, although at the moment it is not entirely clear how these rights are regulated. This new and rather active trend in cyberspace is already changing the art and collectibles industry, and its application in the future may be the basis for the emergence of a new asset class. [3]
 
+## Conclusions
+Studying the standards concerning the NFT market of these objects in general and their legal and accounting norms. Now there is an active introduction of digitalization in all spheres of the economy, and the accounting methodology should change. But there is a significant lag behind the current practice, the availability of a market for new digital products. The relationships on computers, the emergence of new tools and technologies raise many questions that are not reflected in the accounting regulations. The market for non-interchangeable NFT tokens in cyberspace is actively developing.When transactions exceed significant volumes, regulatory legal regulation does not regulate them in accordance with the current situation of the information society. According to the results of the identification of the NFT as an accounting object, it was partially or completely impossible to attribute it to a specific object of accounting policy.
+In order to ensure the accounting of such specific digital products as NFT and its regulation at the level of standards or in DAO smart contracts, it is necessary to develop a methodology for accounting for these information products.
 
-# Cтандарт
-Стандарты форматов обмена биометрическими данными определяют записи обмена биометрическими данными для разных биометрических модальностей. Стороны, заранее договорившиеся обмениваться записями обмена биометрическими данными, как определено в стандартах форматов обмена биометрическими данными ИСО/МЭК СТК 1/ПК 37, должны быть способны осуществлять биометрическое распознавание при использовании данных друг друга. Стороны должны быть способны осуществлять биометрическое распознавание даже в том случае, если конкретные стандарты форматов обмена биометрическими данными, которые должны быть применены, заранее не были оговорены, но их системы базируются на биометрических стандартах ИСО/МЭК СТК 1/ПК 37.
+# Metadata
+Open the Github repository
+https://github.com/mir-one/ton-nft-license and follow the [Article EN](https://telegra.ph/How-to-use-TON-Fongerprints-for-Copyright-license-05-21) or [Article RU](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
+
+```json
+{
+  "name": "Fingerprint #1249",
+  "description": "This is a NFT collection of 10 000 unique digital fingerprints created based on the algorithm for generating basic rings using a noise texture. Like human fingerprints, you can now use them for the Web3 and Metaverse era as digital biometric information on The Open Network.",
+  "image": "ipfs://bafybeibwffjrngqzvmckaa36y5lc3aihzuepjkbsllktsedxc5wu3ctuvu/1249.svg",
+  "image_fingerprint": "ipfs://bafybeidsj7bewr366nlzpkjt2w4npawhwdfpqlzifjyy6d2cmx43jyi2h4/fingerprint_1249.svg",
+  "license": "ipfs://bafkreihj7iub3fhmhq6jn62noukt5wxn3gv6bvcg7wmt6ywvlurefezckq",
+  "theme": { "main": "#2188ff" },
+  "attributes":
+    [
+      { "trait_type": "Count", "value": "13" },
+      { "trait_type": "Area", "value": "9.50720" },
+      { "trait_type": "Perimeter", "value": "1035.08995" },
+      { "trait_type": "Major", "value": "108.18800" },
+      { "trait_type": "Minor", "value": "44.19611" },
+      { "trait_type": "Angle", "value": "88.65860" },
+      { "trait_type": "Circularity", "value": "0.27828" },
+      { "trait_type": "Integrated density", "value": "1864873.84615" },
+      { "trait_type": "Skewness", "value": "-6.19330" },
+      { "trait_type": "Kurtosis", "value": "61.38706" },
+    ],
+}
+```
+
+# Standard
+Biometric data exchange format standards define biometric data exchange records for different biometric modalities. The parties that have agreed in advance to exchange biometric data exchange records, as defined in the ISO/IEC STK 1/PC 37 biometric data exchange format standards, should be able to perform biometric recognition when using each other's data. The Parties should be able to carry out biometric recognition even if the specific standards of the biometric data exchange formats to be applied have not been agreed in advance, but their systems are based on the ISO/IEC STK 1/PC 37 biometric standards.
 
 # Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
 
@@ -72,7 +96,7 @@ Contains an example of a simple ICO smart contract.
 
 Semi-Fungible tokens is combination of NFT and FT.
 
-## Библиографический список
+## Bibliographic list
 * GOST R ISO / IEC 24713-2-2011. National standard of the Russian Federation. Information technology. Biometrics. Biometric profiles for interaction and data exchange. 
 * ISO/IEC 19784-1:2006, Information technology - Biometric application programming interface - Part 1: BioAPI specification
 * ISO/IEC 19785-1:2006, Information technology - Common Biometric Exchange Formats Framework - Part 1: Data element specification
@@ -90,17 +114,17 @@ Semi-Fungible tokens is combination of NFT and FT.
 * ISO/IEC 19795-2:2007, Information technology - Biometric performance testing and reporting - Part 2: Testing methodologies for technology and scenario evaluation
 * ISO/IEC 24713-1:2008, Information technology - Biometric profiles for interoperability and data interchange - Part 1: Overview of biometric systems and biometric profiles
 
-## Ссылки
+## Links
 * <https://ton.org>
-* [Статья: Как использовать TON Fingerprints для авторской лицензии?](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
+* [Article: Как использовать TON Fingerprints для авторской лицензии?](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
 
-# Инструкции
+# Instructions 
 * [На русском языке](https://telegra.ph/Kak-ispolzovat-TON-Otpechatki-dlya-avtorskoj-licenzii-05-21)
 * [На английском языке (EN)](https://telegra.ph/How-to-use-TON-Fongerprints-for-Copyright-license-05-21)
 
-## Пояснения
-<a name="1">1</a>: **Артефакт** (неологизм, от лат. ars — искусство + лат. factus — сделанный, т.е. «сделанный по законам искусства») — продукт творческой деятельности человека.
+## Explanations
+<a name="1">1</a>: **Artifact** (neologism, from Latin. ars — art + lat. factus — made, i.e. "made according to the laws of art") is a product of human creative activity.
 
-<a name="2">2</a>: **Невзаимозаменяемый токен** представляет собой сертификат уникальности цифрового объекта - цифровой криптографический сертификат, который подтверждает право на владение цифровым активом (цифровым артефактом, файлом). Использование __NFT__ не препятствует возможности копирования цифрового артефакта, он только закрепляет право владения оригинальным экземпляром цифрового артефакта.
+<a name="2">2</a>: **A non-fungible token** is a certificate of uniqueness of a digital object - a digital cryptographic certificate that confirms the right to own a digital asset (digital artifact, file). The use of __NFT__ does not prevent the possibility of copying a digital artifact, it only secures the right of ownership of the original copy of the digital artifact.
 
-[3]: Экономика: проблемы, решения и перспективы DOI 10.26425/1816-4277-2021-11-103-109
+[3]: Economics: problems, solutions and prospects DOI 10.26425/1816-4277-2021-11-103-109
